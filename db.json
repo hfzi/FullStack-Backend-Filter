@@ -1,0 +1,42 @@
+{
+  "nick": "",
+  "email": "",
+  "passport": "",
+  "haveProducts": [{
+    "product1": "",
+    "product2": "",
+    "product3": ""
+  }],
+  "usedProducts": [{
+    "product1": "",
+    "product2": "",
+    "product3": ""
+  }],
+  "comments": [
+    {
+      "product1": "",
+      "product2": ""
+    }
+  ],
+  "followers": [
+    {
+      "user1": "Date",
+      "user2": "Date",
+      "user3": "Date"
+    }
+  ],
+  "following": [
+    {
+      "user1": "Date",
+      "user2": "Date",
+      "user3": "Date"
+    }
+  ],
+  "product tracking": [
+    {
+      "product1": "",
+      "product2": "",
+      "product3": ""
+    }
+  ]
+}
